@@ -1,0 +1,28 @@
+ ########## KEY LOGGER @ 10/06/2011 15:24:16 +00:00 ########## 
+
+BrowserBackF19Back, NumLockBrowserSearchBrowserRefresh F21RButton, Clear, NumLockClear, NumLockMButton, NumLockRButton, Clear, NumLockBrowserSearchLMenu
+
+
+
+BrowserRefreshBrowserSearch LShiftKeyBrowserSearchBack, F19 LShiftKeyBack, NumLockRButton, Clear, NumLockXButton2, NumLockLShiftKeyXButton2, NumLockBack, F17MButton, NumLockBrowserHomeBack, F17LaunchMail        Back, F17XButton2, NumLockMButton, NumLockF21BrowserHomeMenu  
+
+ ########## KEY LOGGER @ 01/01/0001 00:00:00 +00:00 ########## 
+
+BrowserBackF19Back, NumLockBrowserSearchBrowserRefresh   BrowserBackF19Back, NumLockBrowserSearchBrowserRefresh    F21RButton, Clear, NumLockClear, NumLockMButton, NumLockRButton, Clear, NumLockBrowserSearchLMenu  
+
+ ########## KEY LOGGER @ 11/10/2017 15:53:49 ########## 
+
+BrowserBackF19Back, NumLockBrowserSearchBrowserRefresh BrowserBackF19Back, NumLockBrowserSearchBrowserRefresh    F21RButton, Clear, NumLockClear, NumLockMButton, NumLockRButton, Clear, NumLockBrowserSearchLMenu BrowserRefreshF19LMenuF21Back, F19Clear, NumLockF19F23    
+
+
+
+ ########## KEY LOGGER @ 11/10/2017 15:54:00 ########## 
+
+
+
+ ########## KEY LOGGER @ 11/10/2017 15:55:09 ########## 
+
+SALUT SALUT BONJOUR RACLETTE 
+
+
+HALLO
