@@ -15,7 +15,7 @@ https://github.com/surmontn/KeyLogger_Cs.git
 Pour complier : C:\Windows\Microsoft.NET\Framework\v3.5\csc.exe /t:exe /out:Executable.exe CodeSource.cs
 
 -  l'emplacement de csc.exe ainsi que la version du framework 
-   peuvent varier d'un environement à l'autre mais de base le compliteur 
+   peuvent varier d'un environement à l'autre mais de base le compilateur 
    se trouve à l'emplacement C:\Windows\Microsoft.NET\Framework\v3.5\csc.exe
    (ou dans Framework\v3.5\bin\csc.exe)
    
