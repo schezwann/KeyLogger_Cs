@@ -12,7 +12,7 @@ https://github.com/surmontn/KeyLogger_Cs.git
 
 ⚠ fonctionne uniquement sous windows ⚠
 
-Pour complier : C:\Windows\Microsoft.NET\Framework\v3.5\csc.exe /t:exe /out:Executable.exe CodeSource.cs
+Pour complier : C:\Windows\Microsoft.NET\Framework\v3.5\csc.exe /t:exe /out:Executable.exe ./src/CodeSource.cs
 
 -  l'emplacement de csc.exe ainsi que la version du framework 
    peuvent varier d'un environement à l'autre mais de base le compilateur 
